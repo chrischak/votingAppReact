@@ -1,0 +1,4 @@
+/* CSS declarations go here */
+body > div {
+  border: 5px solid black;
+}
