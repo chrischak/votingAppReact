@@ -22,7 +22,7 @@ export class DigitalClock extends Component {
   render(){
     startTime();
     return (
-    <div id="digital-clock">Hello World</div>
+    <div id="digital-clock"></div>
     );
   }
 }

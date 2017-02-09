@@ -2,3 +2,15 @@
 body > div {
   border: 5px solid black;
 }
+
+@font-face {
+  font-family: digitalClock;
+  src: url('./assets/digital-dream/DIGITALDREAM.ttf');
+}
+
+#render-digital-clock {
+  background-color: black;
+  color: white;
+  font-family: "digitalClock";
+  font-size: 36px;
+}
