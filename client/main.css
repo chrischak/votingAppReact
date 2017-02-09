@@ -12,5 +12,5 @@ body > div {
   background-color: black;
   color: white;
   font-family: "digitalClock";
-  font-size: 36px;
+  text-align: center;
 }
